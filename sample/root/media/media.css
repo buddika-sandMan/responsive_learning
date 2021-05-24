@@ -1,0 +1,25 @@
+@media screen and (max-width: 375px) {
+  .header-container {
+    flex-direction: column !important;
+    text-align: center;
+  }
+
+  .section-2-container2 {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .section-3-container1 {
+    flex-direction: column;
+    text-align: center !important;
+  }
+
+  #about-para1 {
+    align-items: center !important;
+  }
+
+  #about-para1 {
+    align-items: center !important;
+  }
+
+}

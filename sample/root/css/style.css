@@ -1,0 +1,143 @@
+.img-logo {
+    /* Layout Properties */
+    /* margin-top: 8px;
+    margin-left: 150px; */
+    width: 224px;
+    height: 45px;
+
+    /* UI Properties */
+    background: transparent url('img/logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.nav-text {
+    /* Layout Properties */
+    margin-top: 20px;
+    width: 49px;
+    height: 18px;
+
+    /* UI Properties */
+    text-align: left;
+    font-family: na;
+    font: normal normal normal 18px/31px Hiragino Kaku Gothic ProN;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1;
+}
+
+.left-text1 {
+    margin-left: 909px;
+}
+
+.left-text2 {
+    margin-left: 995px;
+}
+
+.left-text3 {
+    margin-left: 1081px;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img-1 {
+    /* Layout Properties */
+    /* margin-top: 60px;
+    margin-left: 0px;
+    width: 1280px;
+    height: 599px; */
+
+    /* UI Properties */
+    background: transparent url('./img/mainvisual.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#text-center {
+    /* margin-top: 739px;
+    margin-left: 587px; 
+    width: 107px;
+    height: 36px; */
+
+
+    padding-top: 5%;
+    text-align: center;
+    font: normal normal normal 36px/61px Hiragino Kaku Gothic ProN;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1;
+}
+
+.section-2-container2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.para1-center {
+    text-align: center;
+    font: normal normal normal 28px/48px Hiragino Kaku Gothic ProN;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1;
+}
+
+.para2-center {
+    text-align: center;
+    font: normal normal normal 18px/31px Hiragino Kaku Gothic ProN;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1;
+}
+
+hr {
+    /* top: 1359px !important;
+    left: 580px !important; */
+    width: 118px !important;
+    height: 5px !important;
+    margin: auto;
+
+    background: #F2632D 0% 0% no-repeat padding-box !important;
+    opacity: 1 !important;
+}
+
+.section-3-container1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+}
+
+.about-para1 {
+    /* text-align: left; */
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1
+}
+
+.about-para2 {
+    font: normal normal normal 32px/54px Hiragino Kaku Gothic ProN;
+}
+
+.about-para3 {
+    font: normal normal normal 22px/37px Hiragino Kaku Gothic ProN;
+}
+
+#footer-para {
+    display: flex;
+    justify-content: space-around;
+    /* top: 2246px;
+    left: -452px;
+    width: 1280px;
+    height: 40px; */
+
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    background-color: rgb(161, 148, 148);
+    font: normal normal normal 12px/20px Hiragino Kaku Gothic ProN;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
